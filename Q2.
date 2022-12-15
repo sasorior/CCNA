@@ -1,0 +1,12 @@
+QUESTION 2
+Which command enables a router to become a DHCP client?
+A. ip address dhcp
+B. ip helper-address
+C. ip dhcp pool
+D. ip dhcp client
+
+ANS:A
+
+#If we want to get an IP address from the DHCP server on a Cisco device, we can use the command 
+"ip address dhcp".
+Note: The command "ip helper-address" enables a router to become a DHCP Relay Agent.
